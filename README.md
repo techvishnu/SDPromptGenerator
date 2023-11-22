@@ -27,7 +27,7 @@ This repository contains a ChatGPT-based prompt generator designed for Stable Di
 
 ### Video Demo
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](media/Prompt_Demo.mkv)
+[![Demo Video](media/Prompt_Demo.mkv)
 
 Click the image above for a video demonstration.
 
