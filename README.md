@@ -23,12 +23,6 @@ This repository contains a ChatGPT-based prompt generator designed for Stable Di
 3. **Instructions:**
    - Follow the on-screen instructions provided by the prompt generator.
 
-## 🎥 Demo
-
-### 🌟 Example Image
-
-![Example Image](media/Prompt_Example.png)
-
 ## 🤝 Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
